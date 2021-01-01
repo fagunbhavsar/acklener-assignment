@@ -1,0 +1,47 @@
+Create basic app to send sms & email:
+
+  app_name: "New_App"
+  phone_number: "2131243253435"
+  app_message: "This is new app"
+  app_host: "smtp.gmail.com"
+  port_number: "465"
+  app_user: "abc@gmail.com"
+  app_password: "123456"
+  frm_address: "abc@gmail.com"
+  to_address: "xyz@gmail.com"
+  mail_subject: "SMS not sent"
+  text_message: "SMS to phone no 2131243253435 nt sent"
+  x: 900
+  y: 100
+  x1: 400
+  y1: 200
+  x2: 400
+  y2: 400
+  x3: 600
+  y3: 400
+
+
+Create a basic app with app name as a digit:
+  app_name: "123456"
+
+Validate left side menu details for an opened tab called Basic on app page:
+   basic_tab:         ["Hang Up or Exit",
+                        "Simple Prompt",
+                        "Multipart Prompt",
+                        "Jump to Page",
+                        "Simple Menu",
+                        "Transfer",
+                        "Yes or No",
+                        "Multipart + Yes/No",
+                        "Digits Input",
+                        "Multiple Choice",
+                        "Voice Recording",
+                        "Label"]
+
+
+
+
+
+
+
+
